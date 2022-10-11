@@ -1,0 +1,30 @@
+.one-section {
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../assets/img/ba1.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.colour-grey {
+    background-color: #323b41;
+}
+
+.nav-link-colour {
+    color: #9E9E9E;
+}
+
+.colour-green {
+    color: #76b784;
+}
+
+.btn-colour-green {
+    background-color: #76b784;
+    border: #76b784;
+}
+
+.form-textarea::placeholder {
+    font-size: 1.25em;
+}
+
+footer {
+    background: rgb(15,43,50);
+    background: linear-gradient(90deg, rgba(15,43,50,1) 0%, rgba(28,61,76,1) 50%, rgba(34,74,98,1) 100%);
+}
